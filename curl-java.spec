@@ -1,7 +1,7 @@
 Summary:	Java wrapper to the curl library
 Name:		curl-java
 Version:	0.2.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Development/Java
 License:	MIT
 URL:		http://curl.haxx.se/libcurl/java/
