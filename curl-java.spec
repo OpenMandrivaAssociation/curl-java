@@ -40,3 +40,15 @@ rm -rf %{buildroot}%{_libdir}/*.la
 %doc ChangeLog README
 %{_libdir}/*.so*
 %{_datadir}/java/*.jar
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2.3-2mdv2011.0
++ Revision: 610178
+- rebuild
+
+* Sun Apr 18 2010 Tomasz Pawel Gajc <tpg@mandriva.org> 0.2.3-1mdv2010.1
++ Revision: 536071
+- import curl-java
+
+
