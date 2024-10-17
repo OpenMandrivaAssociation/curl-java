@@ -4,7 +4,7 @@ Version:	0.2.3
 Release:	3
 Group:		Development/Java
 License:	MIT
-URL:		http://curl.haxx.se/libcurl/java/
+URL:		https://curl.haxx.se/libcurl/java/
 Source0:	http://www.gknw.de/mirror/curl/curl_java/%{name}-%{version}.tar.bz2
 BuildRequires:	java-rpmbuild
 BuildRequires:	curl-devel
