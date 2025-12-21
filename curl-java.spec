@@ -6,6 +6,11 @@ Group:		Development/Java
 License:	MIT
 URL:		https://curl.haxx.se/libcurl/java/
 Source0:	http://www.gknw.de/mirror/curl/curl_java/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	java-rpmbuild
 BuildRequires:	curl-devel
 Requires:	curl
